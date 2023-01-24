@@ -1,0 +1,5 @@
+D:\ProjetosC#\LojaMVC5\Fvo.Store\Fvo.Store.Domain\bin\Debug\Fvo.Store.Domain.dll
+D:\ProjetosC#\LojaMVC5\Fvo.Store\Fvo.Store.Domain\bin\Debug\Fvo.Store.Domain.pdb
+D:\ProjetosC#\LojaMVC5\Fvo.Store\Fvo.Store.Domain\obj\Debug\Fvo.Store.Domain.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\LojaMVC5\Fvo.Store\Fvo.Store.Domain\obj\Debug\Fvo.Store.Domain.dll
+D:\ProjetosC#\LojaMVC5\Fvo.Store\Fvo.Store.Domain\obj\Debug\Fvo.Store.Domain.pdb

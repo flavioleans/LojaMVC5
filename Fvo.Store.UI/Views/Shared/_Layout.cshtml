@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/Scripts/fontawesome/all.min.js"></script>
+    <link href="~/Content/toastr.min.css" rel="stylesheet" />
+    <title>FVO Store</title>
+</head>
+<body>
+
+    @Html.Partial("_menu")
+    @*//conteudo das views*@
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+
+    <footer class="footer bg-info footer-custom">
+        <div class="container">
+            <span class="text-muted">&copy; @DateTime.Now.Year Fvo Store</span>
+        </div>
+    </footer>
+
+    <script src="~/Scripts/jquery-3.6.3.min.js"></script>
+    <script src="~/Scripts/toastr.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    @RenderSection("scripts", false)
+</body>
+</html>
+
